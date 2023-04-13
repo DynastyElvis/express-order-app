@@ -43,3 +43,10 @@ A online food ordering system build by Vue.js, Node.js, and Mongodb.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
 
+
+## 🧑‍💻 Development Stack
+
+- `Backend` - Node.js,
+- `Batabase` - MongoDb 
+- `Frontend` - VueJs
+
